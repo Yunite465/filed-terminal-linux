@@ -1,10 +1,7 @@
 # filed-terminal-linux
-simple bash script that allows you to use terminal through .md files
+simple bash script that allows you to use terminal through .md files (It was actually designed for remote PC control via Obsidian and Syncthing.)
 # Installation
-To install, simply paste the following command into your terminal:
-bash
-
-<insert_your_command_here>
+To install, simply clone repo
 
 # Usage
 Inside the project directory, locate the config.conf file. Insert the path to the folder where your operational files will be stored.
