@@ -16,4 +16,3 @@ Contains any relevant system information you may need.
 
 # ⚠️ Warning
 USE PRIVATE REPOSITORIES ONLY! Anyone with permission to edit in.md can execute any command on your PC.
-Would you like me to add the specific installation command to the code block or expand the security warnings?
