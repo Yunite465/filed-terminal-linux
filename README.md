@@ -1,2 +1,22 @@
 # filed-terminal-linux
 simple bash script that allows you to use terminal through .md files
+# Installation
+To install, simply paste the following command into your terminal:
+bash
+
+<insert_your_command_here>
+
+# Usage
+Inside the project directory, locate the config.conf file. Insert the path to the folder where your operational files will be stored.
+The program utilizes three files: in.md, out.md, and status.md.
+## in.md
+The program monitors this file for commands. Commands follow this syntax: Your command -run. Once the -run flag is detected, the script executes the command.
+## out.md
+This file contains the program output.
+⚠️ CAUTION: When a second command is executed, the previous output is overwritten!
+## status.md
+Contains any relevant system information you may need.
+
+# ⚠️ Warning
+USE PRIVATE REPOSITORIES ONLY! Anyone with permission to edit in.md can execute any command on your PC.
+Would you like me to add the specific installation command to the code block or expand the security warnings?
